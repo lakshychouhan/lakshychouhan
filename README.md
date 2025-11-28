@@ -1,4 +1,5 @@
-# 💫 About me:![Untitled design](https://github.com/user-attachments/assets/8ec961c8-c395-4b42-ad58-3e66f6c419f2)
+# 💫 About me:![Wavey Birdie](https://github.com/user-attachments/assets/666f36fa-24f4-41db-8e3d-283fba98c1d8)
+
 🧑‍💻 Full-stack developer with experience in Python, React, and FastAPI etc.<br>
 🤖 Building AI-enabled apps with LLM integration, RAG pipelines, embeddings & vector search<br>
 🎨 Frontend dev who enjoys shaping smooth, reactive UIs with Tailwind + modern React<br>
