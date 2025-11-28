@@ -1,4 +1,4 @@
-# 💫 About ![Me:https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhuNDBjbmV1eDR0YWdlMDdsZHI1bnEwd3h5ZzR5anR3ZTFyb2dwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FQxpCWS4ZyvNFCTKHJ/giphy.gif](https://tenor.com/view/hi-hello-smile-design-golf-gif-17598053)
+# 💫 About me:![Untitled design](https://github.com/user-attachments/assets/8ec961c8-c395-4b42-ad58-3e66f6c419f2)
 🧑‍💻 Full-stack developer with experience in Python, React, and FastAPI etc.<br>
 🤖 Building AI-enabled apps with LLM integration, RAG pipelines, embeddings & vector search<br>
 🎨 Frontend dev who enjoys shaping smooth, reactive UIs with Tailwind + modern React<br>
