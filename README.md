@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/666f36fa-24f4-41db-8e3d-283fba98c1d8" width="120"/>
 </p>
 
-# 💫 About me:
+# 💫 About me:<br>
 🧑‍💻 Full-stack developer with experience in Python, React, and FastAPI etc.<br>
 🤖 Building AI-enabled apps with LLM integration, RAG pipelines, embeddings & vector search<br>
 🎨 Frontend dev who enjoys shaping smooth, reactive UIs with Tailwind + modern React<br>
